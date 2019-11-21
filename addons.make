@@ -1,0 +1,8 @@
+ofxFBOGlslSource
+ofxFBOSyphonSource
+ofxGLSLSandbox
+ofxGui
+ofxMidi
+ofxPiMapper
+ofxSyphon
+ofxXmlSettings
